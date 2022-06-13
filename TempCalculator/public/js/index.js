@@ -29,3 +29,8 @@ function kelvin() {
 	feh = (((kel - 273.15) * 9) / 5) + 32;
 	document.getElementById("input_feh").value = feh;
 }
+function reset(){
+	document.getElementById("input_cel").value = null;
+	document.getElementById("input_feh").value = null;
+	document.getElementById("input_kel").value = null;
+}
