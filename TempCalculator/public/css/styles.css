@@ -1,0 +1,5 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Open+Sans&display=swap');
+body{
+	font-family: lobster, "Open Sans", sans-serif;
+}
